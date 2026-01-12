@@ -1,13 +1,14 @@
 # picoCTF Solutions & Writeups (2019–2025)
 
-Welcome to my comprehensive repository of **picoCTF challenge solutions**, featuring detailed writeups across cryptography, binary exploitation, reverse engineering, web exploitation, forensics, and general skills. This is for beginners and learners looking to level up.
+Welcome to my comprehensive repository of **picoCTF challenge solutions**, featuring detailed writeups across cryptography, binary exploitation, reverse engineering, web exploitation, forensics, and general skills. This is for beginners and learners looking to level up.<br>
+Update: Checkout my CTF swiss army knife tool for solving most of the ctf: [hotrod](https://github.com/PS-003R32/hotrod)
 
 ---
 
 ## Repository Structure
 
 This repository is organized by:
-- **Year & Event**: From `picoCTF-2019` to `picoCTF-2025`, including `picoMini` and `picoGym` exclusives
+- **Year & Event**: From `picoCTF-2019` to `picoCTF-2025`, including `picoMini`, `picoGym` exclusives and `CMU-Afreca`.
 - **Category**: Cryptography, Forensics, Binary Exploitation, Web Exploitation, Reverse Engineering, General Skills
 
 Sample folder layout:
