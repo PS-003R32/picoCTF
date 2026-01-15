@@ -32,5 +32,5 @@ else:
 ---
 Flag:
 ```text
-
+picoCTF{t1ny_e_4da5fb4d}
 ```
